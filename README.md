@@ -1,4 +1,4 @@
-# Personal LMS
+# Yet Personal LMS
 
 A personal learning management system that helps students organize their courses, materials, notes, assignments, and general items all in one place.
 
